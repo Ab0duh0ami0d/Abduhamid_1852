@@ -1,0 +1,14 @@
+1.Git init – Bo’sh git repositoryni e’lon qilish va uni ishga tushirish
+2.git config –list – git loiha uchun sozlamalar ro’yhatini ko’rish
+3.git config user.name  git loihaga user.name qo’shish
+4.git config user.email  git loihaga email qo’shish
+5.git add  Ko’rsatilgan nomdagi fayilni git repositoryga qo’shish
+6.git  Joriy Katalogdagi barcha o’zgarishlarni git repositoryda saqlash
+7. git status  Joriy git loihaning joriy holatini tekshirish
+8.git commit  -m “meseg”  Kritilgan o’garishlarni “mesej” xabari orqaliy saqlaydi
+9.git log  git repozitoriydagi barcha o’zgarishlar tarihini ko’rsatadi
+10.,git branch  Mazkur git repozitoriydagi barcha file larni ro’yhatini ko’rish
+11.git branch “new_branch”  yangi branch hosil qilish 
+12. gir switch branch_name  joriy branchdan yangi branchga o’tish.
+13. git merge “branch_name” boshqa branchda qilingan o’zgarishlarni joriy branchga qo’shib qo’yish.
+14. git clone “url” havolasi keltirilgan repozitoriyni nisxalash
